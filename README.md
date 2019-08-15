@@ -1,2 +1,2 @@
 # Blober
-Absolute Encryption Blockchain Messenger
+Обмен сообщениями через блокчейн и шифр Вернама
